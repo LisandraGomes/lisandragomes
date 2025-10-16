@@ -3,14 +3,11 @@
    ### 🎓 - Formação (Concluída): Analise e Desenvolvimento de Sistemas 
    <h5>🎓 - Graduated : Systems Analysis and Development</h5> 
 
-   ### 📚 - Estudando no momento : Especialização técnica em Backend .NET e Asp.Net Core   
-   <h5>📚 - Technical Specialization in .NET and Asp.Net</h5>  
-
    ### 👩‍💻 - Trabalho Atual : Desenvolvedor .Net II
    <h5>👩‍💻 -Naming at work : Development .Net II and Angular</h5> 
 
-   ### 🚀 - Proximos Passos a serem alcançados : 🧩 - Iniciar Pós-Graduação | 📜 - Certificação Scrum </br>
-   <h5>🚀 - Next Step to be taken : 🧩 - MBA | 📜 - Certification Scrum</h5> 
+   ### 🚀 - Proximos Passos a serem alcançados : 🧩 - Iniciar Pós-Graduação</br>
+   <h5>🚀 - Next Step to be taken : 🧩 - MBA</h5> 
 
 <div style="display: inline_block"><br>             
 🤹‍♀️ - Habilidades Técnicas: </br>
