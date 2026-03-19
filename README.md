@@ -6,7 +6,10 @@
    ### 👩‍💻 - Trabalho Atual : Desenvolvedor .Net II
    <h5>👩‍💻 -Naming at work : Development .Net II and Angular</h5> 
 
-   ### 🚀 - Proximos Passos a serem alcançados : 🧩 - Iniciar Pós-Graduação</br>
+   ### 🎓 Mentoria .NET Expert com NextWave Educacional e Luis Felipe (Em Andamento 2026)
+   <h5> 🎓 Mentoring .NET Expert with NextWave Educational and Luis Felipe (In Progress 2026) </h5>
+
+   ### 🚀 - Proximos Passos a serem alcançados : 🧩 - Iniciar Pós-Graduação em Arquitetura de Software</br>
    <h5>🚀 - Next Step to be taken : 🧩 - MBA</h5> 
 
 <div style="display: inline_block"><br>             
