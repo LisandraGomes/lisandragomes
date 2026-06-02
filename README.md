@@ -1,7 +1,7 @@
 <div>
-   Olá, meu nome é Lisandra B. Gomes!
+   Olá, meu nome é Lisandra Gomes!
 
-   Desenvolvedora .Net FullStack com experiência em projetos de software com .NET,  ASP.NET, Angular, SQL Server, Oracle, Azure, MongoDB, Redis, RabbitMQ. Utilizando como princípios centrais Clean Architecture e SOLID aplicando seus design patterns.
+   Atuo como Desenvolvedora .Net FullStack com cerca de 5 anos de experiência em projetos de software com .NET,  ASP.NET, Angular, SQL Server, Oracle, Azure, MongoDB, Redis, RabbitMQ. Utilizando como princípios centrais Clean Architecture e SOLID aplicando seus design patterns.
 
    ##### 🎓 - Formação (Concluída): Analise e Desenvolvimento de Sistemas
    ##### 👩‍💻 - Trabalho Atual : Desenvolvedor .Net II
