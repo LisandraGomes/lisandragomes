@@ -1,12 +1,11 @@
-<div>
-   Olá, meu nome é Lisandra Gomes!
+<div style="display: inline_block">
+  <p><h5> Olá, meu nome é Lisandra Gomes! </h5></p>
+  <p><h5> Atuo como Desenvolvedora .Net FullStack com cerca de 5 anos de experiência em projetos de software com .NET,  ASP.NET, Angular, SQL Server, Oracle, Azure, MongoDB, Redis, RabbitMQ. Utilizando como princípios centrais Clean Architecture e SOLID aplicando seus design patterns. </h5></p>
 
-   Atuo como Desenvolvedora .Net FullStack com cerca de 5 anos de experiência em projetos de software com .NET,  ASP.NET, Angular, SQL Server, Oracle, Azure, MongoDB, Redis, RabbitMQ. Utilizando como princípios centrais Clean Architecture e SOLID aplicando seus design patterns.
-
-   ##### 🎓 - Formação (Concluída): Analise e Desenvolvimento de Sistemas
-   ##### 👩‍💻 - Trabalho Atual : Desenvolvedor .Net II
-   ##### 🎓 Mentoria .NET Expert com NextWave Educacional e Luis Felipe (Em Andamento 2026)
-   ##### 🚀 - Proximos Passos a serem alcançados : 🧩 - Iniciar Pós-Graduação em Arquitetura de Software</br>
+   <strong> 🎓 - Formação Superior: </strong> Analise e Desenvolvimento de Sistemas </br>
+   <strong> 👩‍💻 - Trabalho Atual : </strong> Desenvolvedor .Net II </br>
+   <strong> 🎓 - Mentoria .NET Expert com NextWave Educacional e Luis Felipe (Em Andamento 2026) </br>
+   <strong> 🚀 - Proximos Passos a serem alcançados : </strong> 🧩 - Iniciar Pós-Graduação em Arquitetura de Software </br>
    
 </div>
 <div style="display: inline_block"><br>             
@@ -51,5 +50,5 @@
 
   <div> 
   <a href = "mailto:lisandragomes53@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lisandra-gomes-877285111/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+  <a href="https://www.linkedin.com/in/lisandra-gomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
